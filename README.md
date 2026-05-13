@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=linux" width="48" title="Ubuntu / Linux"/>
   <img src="https://skillicons.dev/icons?i=git" width="48" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="48" title="VirtualBox"/>
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="48" title="VirtualBox"/>
 </p>
 
 ###  Data Engineering & Big Data

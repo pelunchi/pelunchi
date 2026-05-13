@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luis%20Lopez%20Berrelleza&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineering%20%7C%20Software%20Developer&descAlignY=55)
+![Header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luis%20Lopez%20Berrelleza&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineering%20%7C%20Software%20Developer&descAlignY=55](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luis%20Lopez%20Berrelleza&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineering%20%7C%20Software%20Developer&descAlignY=55))
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&width=500&lines=Hi+I'm+Luis+Lopez+;Data+Engineering+Enthusiast;Software+Developer;AWS+Academy+Graduate)](https://git.io/typing-svg)
 
@@ -10,10 +10,12 @@
 ##  About Me
 
 -  Culiacán, Sinaloa, México
--  Ingeniería en Desarrollo de Software — Tecmilenio (2022 – Presente)
+-  Ingeniería en Desarrollo de Software — Tecmilenio (2026 – Presente)
 -  AWS Academy Graduate — Data Engineering
 -  Conocimientos en POO y Arquitectura de Datos
 -  Buscando oportunidades en **Data Engineering / Software Development**
+-  Desarrollo de aplicaciones moviles
+-  Diseño web
 
 ---
 
@@ -29,6 +31,9 @@
   <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5"/>
   <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS"/>
   <img src="https://skillicons.dev/icons?i=php" width="48" title="PHP"/>
+  <img src="https://skillicons.dev/icons?i=laravel" width="48" title="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=vue" width="48" title="Vue.js"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" title="React"/>
 </p>
 
 ###  Databases

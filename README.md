@@ -1,4 +1,4 @@
-# Hi, I'm Luis Lopez Berrelleza 👋
+# Hi, I'm Luis Lopez Berrelleza 
 
 ### 🎓 Software Engineering Student | Data Engineering Enthusiast
 
@@ -7,12 +7,12 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 📍 Culiacán, Sinaloa, México
-- 🎓 Ingeniería en Desarrollo de Software — Tecmilenio (2022 – Presente)
-- ☁️ AWS Academy Graduate — Data Engineering
-- 🔍 Buscando oportunidades en **Data Engineering / Software Development**
+-  Culiacán, Sinaloa, México
+-  Ingeniería en Desarrollo de Software — Tecmilenio (2022 – Presente)
+-  AWS Academy Graduate — Data Engineering
+-  Buscando oportunidades en **Data Engineering / Software Development**
 
 ---
 
@@ -40,14 +40,14 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pelunchi&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pelunchi&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Contact
+##  Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)

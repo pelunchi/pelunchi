@@ -1,84 +1,77 @@
-# Hi, I'm Luis Lopez Berrelleza 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luis%20Lopez%20Berrelleza&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineering%20%7C%20Software%20Developer&descAlignY=55)
 
-### 🎓 Software Engineering Student | Data Engineering Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&width=500&lines=Hi+I'm+Luis+Lopez+;Data+Engineering+Enthusiast;Software+Developer;AWS+Academy+Graduate)](https://git.io/typing-svg)
 
 > Estudiante de Ingeniería en Desarrollo de Software en Universidad Tecmilenio, Culiacán.  
 > Apasionado por los datos, la nube y el desarrollo de soluciones tecnológicas.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 📍 Culiacán, Sinaloa, México
-- 🎓 Ingeniería en Desarrollo de Software — Tecmilenio (2022 – Presente)
-- ☁️ AWS Academy Graduate — Data Engineering
-- 🧠 Conocimientos en POO y Arquitectura de Datos
-- 🔍 Buscando oportunidades en **Data Engineering / Software Development**
+-  Culiacán, Sinaloa, México
+-  Ingeniería en Desarrollo de Software — Tecmilenio (2022 – Presente)
+-  AWS Academy Graduate — Data Engineering
+-  Conocimientos en POO y Arquitectura de Datos
+-  Buscando oportunidades en **Data Engineering / Software Development**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+###  Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=cs" title="C#"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin"/>
-  <img src="https://skillicons.dev/icons?i=r" title="R"/>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
-  <img src="https://skillicons.dev/icons?i=php" title="PHP"/>
+  <img src="https://skillicons.dev/icons?i=python" width="48" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="48" title="C#"/>
+  <img src="https://skillicons.dev/icons?i=kotlin" width="48" title="Kotlin"/>
+  <img src="https://skillicons.dev/icons?i=r" width="48" title="R"/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=php" width="48" title="PHP"/>
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
-  <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=flat-square&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="48" title="NoSQL / Cassandra"/>
 </p>
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=azure" title="Azure"/>
-  <img src="https://skillicons.dev/icons?i=linux" title="Ubuntu / Linux"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="48" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="48" title="Azure"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="48" title="Ubuntu / Linux"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" width="48" title="VirtualBox"/>
 </p>
 
-### 📊 Data Engineering & Big Data
+###  Data Engineering & Big Data
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Data%20Pipelines-00C7B7?style=for-the-badge&logo=amazonkinesis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arquitectura%20de%20Datos-6C3483?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48" title="Apache Spark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" title="Hadoop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="48" title="Data Pipelines"/>
 </p>
 
-### 🐍 Python Libraries
+###  Python Libraries
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Environments
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/POO-239120?style=for-the-badge&logo=buffer&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" title="Scikit-Learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" title="TensorFlow"/>
 </p>
 
 ---
 
-## 📫 Contact
+##  Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
 ---
 
-*"Transforming data into decisions."*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
